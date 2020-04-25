@@ -1,0 +1,257 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_DIVIDER:inst55|out_clk_next'
+Slack : -8.904
+TNS   : -107.163
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -7.111
+TNS   : -441.871
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_DIVIDER:inst75|out_clk_next'
+Slack : -1.605
+TNS   : -9.172
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_DIVIDER:inst74|out_clk_next'
+Slack : -1.566
+TNS   : -9.934
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_DIVIDER:inst97|out_clk_next'
+Slack : -1.243
+TNS   : -12.133
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_DIVIDER:inst91|out_clk_next'
+Slack : -1.194
+TNS   : -7.775
+
+Type  : Slow 1200mV 85C Model Setup 'tastatura:inst12|Debouncer:inst40|inst1'
+Slack : -0.533
+TNS   : -1.985
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : -0.144
+TNS   : -0.232
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_DIVIDER:inst97|out_clk_next'
+Slack : -0.143
+TNS   : -0.143
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_DIVIDER:inst55|out_clk_next'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_DIVIDER:inst75|out_clk_next'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_DIVIDER:inst74|out_clk_next'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_DIVIDER:inst91|out_clk_next'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'tastatura:inst12|Debouncer:inst40|inst1'
+Slack : 0.380
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -270.180
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_DIVIDER:inst55|out_clk_next'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'tastatura:inst12|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_DIVIDER:inst97|out_clk_next'
+Slack : -1.000
+TNS   : -12.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_DIVIDER:inst74|out_clk_next'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_DIVIDER:inst75|out_clk_next'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_DIVIDER:inst91|out_clk_next'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_DIVIDER:inst55|out_clk_next'
+Slack : -8.021
+TNS   : -95.086
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -6.323
+TNS   : -379.101
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_DIVIDER:inst75|out_clk_next'
+Slack : -1.337
+TNS   : -7.229
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_DIVIDER:inst74|out_clk_next'
+Slack : -1.320
+TNS   : -7.917
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_DIVIDER:inst97|out_clk_next'
+Slack : -1.018
+TNS   : -9.810
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_DIVIDER:inst91|out_clk_next'
+Slack : -0.947
+TNS   : -5.938
+
+Type  : Slow 1200mV 0C Model Setup 'tastatura:inst12|Debouncer:inst40|inst1'
+Slack : -0.378
+TNS   : -1.012
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : -0.190
+TNS   : -0.300
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_DIVIDER:inst97|out_clk_next'
+Slack : -0.080
+TNS   : -0.080
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_DIVIDER:inst55|out_clk_next'
+Slack : 0.232
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_DIVIDER:inst74|out_clk_next'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_DIVIDER:inst75|out_clk_next'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_DIVIDER:inst91|out_clk_next'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'tastatura:inst12|Debouncer:inst40|inst1'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -270.180
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:inst55|out_clk_next'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'tastatura:inst12|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:inst97|out_clk_next'
+Slack : -1.000
+TNS   : -12.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:inst74|out_clk_next'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:inst75|out_clk_next'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:inst91|out_clk_next'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_DIVIDER:inst55|out_clk_next'
+Slack : -4.654
+TNS   : -52.807
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -3.638
+TNS   : -193.502
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_DIVIDER:inst75|out_clk_next'
+Slack : -0.425
+TNS   : -1.213
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_DIVIDER:inst74|out_clk_next'
+Slack : -0.406
+TNS   : -1.917
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_DIVIDER:inst97|out_clk_next'
+Slack : -0.282
+TNS   : -2.414
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_DIVIDER:inst91|out_clk_next'
+Slack : -0.227
+TNS   : -0.580
+
+Type  : Fast 1200mV 0C Model Setup 'tastatura:inst12|Debouncer:inst40|inst1'
+Slack : 0.153
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : -0.153
+TNS   : -0.504
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_DIVIDER:inst97|out_clk_next'
+Slack : -0.120
+TNS   : -0.120
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_DIVIDER:inst55|out_clk_next'
+Slack : 0.090
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_DIVIDER:inst75|out_clk_next'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_DIVIDER:inst74|out_clk_next'
+Slack : 0.194
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_DIVIDER:inst91|out_clk_next'
+Slack : 0.194
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'tastatura:inst12|Debouncer:inst40|inst1'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -203.041
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:inst55|out_clk_next'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'tastatura:inst12|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:inst97|out_clk_next'
+Slack : -1.000
+TNS   : -12.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:inst74|out_clk_next'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:inst75|out_clk_next'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:inst91|out_clk_next'
+Slack : -1.000
+TNS   : -10.000
+
+------------------------------------------------------------

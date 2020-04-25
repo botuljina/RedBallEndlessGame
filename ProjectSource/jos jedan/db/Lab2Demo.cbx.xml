@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Lab2Demo">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Lab2Demo|ball:inst10|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_acr3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Lab2Demo|kaktus:inst111|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_uar3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Lab2Demo|kaktus:inst27|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_uar3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Lab2Demo|lesinar:inst17|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ftr3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Lab2Demo|lesinar:inst9|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ftr3.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
